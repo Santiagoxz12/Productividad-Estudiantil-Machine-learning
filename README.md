@@ -65,14 +65,4 @@ El dataset utilizado se encuentra disponible en Kaggle:
 
 ---
 
-## 👨‍💻 Tecnologías Utilizadas
 
-- Python
-- Scikit-learn
-- TensorFlow / Keras
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-
----
