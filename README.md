@@ -60,9 +60,8 @@ El dataset utilizado se encuentra disponible en Kaggle:
 ## 🔗 Enlaces del Proyecto
 
 - 📹 Video: *YouTube*
-- 📓 Notebook Funcional: *Google Colab*
-- 📑 Presentación: *Diapositivas*
-- 💻 Repositorio: *GitHub*
+- 📓 Notebook Funcional: [*Google Colab*](https://drive.google.com/file/d/18dZqa2k1nYg3uNtmM0DhbErVAUej7DZL/view?usp=sharing)
+- 📑 Presentación: [*Diapositivas*](https://drive.google.com/file/d/1qItfomrgT0w3znrZt43bTAhvtizyiQ4_/view?usp=sharing)
 
 ---
 
