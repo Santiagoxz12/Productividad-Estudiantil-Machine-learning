@@ -77,7 +77,3 @@ El dataset utilizado se encuentra disponible en Kaggle:
 - Seaborn
 
 ---
-
-## 📈 Objetivo del Proyecto
-
-Este proyecto busca aplicar técnicas de Machine Learning para identificar patrones de comportamiento estudiantil y generar herramientas de apoyo académico basadas en datos.
